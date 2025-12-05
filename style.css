@@ -670,6 +670,9 @@ span{
     .portfolio-container{
         grid-template-columns: 1fr;
     }
+    .things{
+        display: contents;
+    }
 }
 
 
